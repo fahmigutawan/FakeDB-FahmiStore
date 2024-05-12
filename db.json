@@ -33,12 +33,12 @@
       "type": "SiCepat",
       "datas": [
         {
-          "id": "bcd96779-e41e-43df-850d-52441f505494",
+          "id": "f4f63ee4-4da9-4105-98ce-e5ad77524793",
           "name": "Reguler",
           "fee": 8000
         },
         {
-          "id": "5f555cbd-35ee-40c2-8814-473bd7568a92",
+          "id": "48cfc39a-c4bb-4deb-ac09-c1875ed1f7c3",
           "name": "Express",
           "fee": 20000
         }
