@@ -62,5 +62,37 @@
         }
       }
     }
+  ],
+  "shipment": [
+    {
+      "type": "JNE",
+      "datas": [
+        {
+          "id": "bcd96779-e41e-43df-850d-52441f505494"
+          "name": "Reguler",
+          "fee": 10000
+        },
+        {
+          "id": "5f555cbd-35ee-40c2-8814-473bd7568a92"
+          "name": "Yakin Esok Sampai",
+          "fee": 25000
+        }
+      ]
+    },
+    {
+      "type": "SiCepat",
+      "datas": [
+        {
+          "id": "bcd96779-e41e-43df-850d-52441f505494"
+          "name": "Reguler",
+          "fee": 8000
+        },
+        {
+          "id": "5f555cbd-35ee-40c2-8814-473bd7568a92"
+          "name": "Express",
+          "fee": 20000
+        }
+      ]
+    }
   ]
 }
